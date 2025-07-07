@@ -1,6 +1,5 @@
-# PowerBI-Global-Economy-Dashboard
-Data Analyst | Power BI | SQL | DAX | Transforming Data into Actionable Insights
 # 🌍 PowerBI Global Economy Dashboard (2010–2025)
+Data Analyst | Power BI | SQL | DAX | Transforming Data into Actionable Insights
 
 ---
 
